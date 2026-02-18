@@ -10,7 +10,7 @@ HematoVision aims to develop an accurate and efficient model for classifying blo
 | Member 2     | Bandela Pravallika                     |
 | Member 3     | Thalla Indra Sreekar                   |
 ## [Project Demo Video Link]
-<https://drive.google.com/file/d/1Fn6HTHfAA1PcC5Z_RBEgUgTjzyjEOQwQ/view?usp=drivesdk>
+<https://drive.google.com/file/d/1QxaNGZVuco2YtSQRfT5dQvEWWns71amL/view?usp=drivesdk>
 ## Technologies Used
 | Category        | Technology            |
 |-----------------|-----------------------|
